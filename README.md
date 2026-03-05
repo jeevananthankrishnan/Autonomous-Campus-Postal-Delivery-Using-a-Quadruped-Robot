@@ -171,8 +171,5 @@ The robot consistently navigates between predefined landmarks ( Post Office → 
 ![image](https://github.com/Jeevananthan-RA/Autonomous-Campus-Postal-Delivery-Using-a-Quadruped-Robot/blob/f45eb4ee126aea48dfe1b3db93b62bfefb865e00/Outcomes.png)
 
 
-Advanced terrain classification
-
-As concluded in the study, the architecture provides a cost-effective and scalable foundation for autonomous quadruped deployment
 
 
