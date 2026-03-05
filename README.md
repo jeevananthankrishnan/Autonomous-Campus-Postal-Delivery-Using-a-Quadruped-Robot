@@ -2,7 +2,7 @@
 This project demonstrates that practical outdoor navigation for quadruped robots can be implemented using low-cost microcontrollers and sensor fusion without requiring high-performance onboard computers. The open and modular ESP32-based architecture makes it suitable for research, education, and robotics prototyping.
 # 📌 Overview
 
-This project presents a low-cost, fully embedded autonomous navigation system for a quadruped robot designed for campus-scale postal delivery.
+ Project presents a low-cost, fully embedded autonomous navigation system for a quadruped robot designed for campus-scale postal delivery.
 
 Unlike traditional robotics systems that rely on ROS or SLAM, this system is implemented entirely on dual ESP32 microcontrollers, using onboard sensor fusion and waypoint navigation.
 
@@ -20,7 +20,7 @@ Web-based real-time monitoring dashboard
 
 Custom DAC-based remote controller emulation
 
-The platform is implemented on a Unitree Go2 quadruped robot and demonstrates reliable campus navigation using commercial off-the-shelf components
+The platform is implemented on a Unitree Go2 quadruped robot and demonstrates reliable campus navigation.
 
 # 🎯 Key Contributions
 
@@ -55,8 +55,6 @@ FreeRTOS dual-core tasking
 # ESP32-CAM Module
 
 Web dashboard interface
-
-![image](https://github.com/Jeevananthan-RA/Autonomous-Campus-Postal-Delivery-Using-a-Quadruped-Robot/blob/2b12b4c945f0473d9ce744c03afced250989fdda/Dashboard.jpeg)
 
 HTTP command handling
 
@@ -138,17 +136,11 @@ Ultrasonic distances
 
 Navigation state
 
-Mission control commands
+Mission control commands 
 
-Performance Results:
+![image](https://github.com/Jeevananthan-RA/Autonomous-Campus-Postal-Delivery-Using-a-Quadruped-Robot/blob/2b12b4c945f0473d9ce744c03afced250989fdda/Dashboard.jpeg)
 
-Supports 4 concurrent clients
 
-<3% frame loss
-
-99.8% packet delivery ratio
-
-0.12–0.47 s response latency
 
 ## 🔄 Mission State Machine
 
@@ -176,41 +168,13 @@ Manual override via dashboard
 
 # Excepted Outcomes
 
+The robot consistently navigates between predefined landmarks ( Post Office → H-Building) with repeatable arrival accuracy under normal outdoor conditions.
+
 ![image](https://github.com/Jeevananthan-RA/Autonomous-Campus-Postal-Delivery-Using-a-Quadruped-Robot/blob/f45eb4ee126aea48dfe1b3db93b62bfefb865e00/Outcomes.png)
 
-## 🔮 Future Work
-
-RTK-GPS for higher positioning accuracy
-
-Enhanced sensor fusion algorithms
-
-Long-distance drift compensation
-
-Multi-robot coordination
 
 Advanced terrain classification
 
 As concluded in the study, the architecture provides a cost-effective and scalable foundation for autonomous quadruped deployment
 
-## 👨‍💻 Authors
 
-Abel Mathew
-
-Arshad Ali Khan Patan
-
-Jeevananthan Krishnan
-
-Jestin Pappachan Jacob
-
-Juan Raj
-
-Libin Kanachikattu Biju
-
-Mohammed Anfas
-
-Nanda Kishore Kotakonda
-
-Neeraj Cheripally
-
-Mechatronics and Cyberphysical Systems
-Deggendorf Institute of Technology
