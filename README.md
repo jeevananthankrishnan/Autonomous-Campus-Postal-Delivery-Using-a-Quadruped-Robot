@@ -56,6 +56,7 @@ FreeRTOS dual-core tasking
 
 Web dashboard interface
 
+![image](https://github.com/Jeevananthan-RA/Autonomous-Campus-Postal-Delivery-Using-a-Quadruped-Robot/blob/2b12b4c945f0473d9ce744c03afced250989fdda/Dashboard.jpeg)
 
 HTTP command handling
 
