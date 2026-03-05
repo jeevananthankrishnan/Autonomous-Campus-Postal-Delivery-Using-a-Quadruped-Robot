@@ -6,7 +6,6 @@ This project presents a low-cost, fully embedded autonomous navigation system fo
 
 Unlike traditional robotics systems that rely on ROS or SLAM, this system is implemented entirely on dual ESP32 microcontrollers, using onboard sensor fusion and waypoint navigation.
 
-![image](https://github.com/Jeevananthan-RA/Autonomous-Campus-Postal-Delivery-Using-a-Quadruped-Robot/blob/fe9ee75f32e6fecac1a725c66b51da310f02ef6d/map.jpg)
 # The system integrates:
 
 GPS-based waypoint navigation
@@ -57,7 +56,6 @@ FreeRTOS dual-core tasking
 
 Web dashboard interface
 
-![image](https://github.com/Jeevananthan-RA/Autonomous-Campus-Postal-Delivery-Using-a-Quadruped-Robot/blob/a1080427ae56b6697a3a49b8e2651825b8f55fcf/Dashboard.jpeg)
 
 HTTP command handling
 
