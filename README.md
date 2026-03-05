@@ -4,6 +4,8 @@
 
 Unlike traditional robotics systems that rely on ROS or SLAM, this system is implemented entirely on dual ESP32 microcontrollers, using onboard sensor fusion and waypoint navigation.
 
+![image](https://github.com/Jeevananthan-RA/Autonomous-Campus-Postal-Delivery-Using-a-Quadruped-Robot/blob/6aea82efb8f75c4b7d4ea37313097b116dde2fde/Robotdog.jpeg)
+
 # The system integrates:
 
 GPS-based waypoint navigation
